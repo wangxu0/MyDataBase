@@ -1,0 +1,4 @@
+name varchar(20), sex varchar(30), dep varchar(30)
+tom man b14
+jack man a17
+macho man b11

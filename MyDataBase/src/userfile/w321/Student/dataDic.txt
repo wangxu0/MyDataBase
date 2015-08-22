@@ -1,0 +1,10 @@
+sc: 
+name varchar(10) primary key
+sex varchar(2) not null
+dep varchar(30)
+stunum int unique
+stu: 
+name varchar(10) primary key
+sex varchar(2) not null
+dep varchar(30)
+stunum int unique

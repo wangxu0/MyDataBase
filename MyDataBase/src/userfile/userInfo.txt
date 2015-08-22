@@ -1,0 +1,24 @@
+username: dba
+
+password: dba123
+
+ps: DBA
+
+
+username: admin
+password: admin123
+
+ps: DBA
+
+
+username: w
+password: w321
+
+ps: DBA
+
+username: s
+
+password: 321
+
+ps: DBA
+

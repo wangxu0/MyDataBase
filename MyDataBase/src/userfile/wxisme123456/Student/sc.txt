@@ -1,0 +1,4 @@
+name varchar, sex varchar, dep varchar, age int
+wx man computer 30
+lq women math 30
+zs man lecture 30

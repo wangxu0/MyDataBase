@@ -1,0 +1,1 @@
+name varchar(10), sex varchar(2), dep varchar(30), stunum int

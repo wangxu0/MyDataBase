@@ -1,0 +1,51 @@
+
+create database Student;
+
+create table stu (
+name varchar(10) primary key,
+sex varchar(2) not null,
+dep varchar(30),
+stunum int unique
+);
+
+insert
+into sc
+values(jack,man,computer,103);
+
+insert
+into sc
+values(tom,man,computer,104);
+
+insert
+into sc
+values(jack,man,computer,104);
+
+insert
+into sc
+values(wx,man,math,106);
+
+select name,stunum
+from sc
+where name=wx and dep=math;
+
+update sc
+set sex=women,stunum=2013
+where name=tom and stunum=104;
+
+select *
+from sc
+where name=jack;
+
+update sc
+set dep=english;
+
+delete
+from sc
+where name=jack;
+exit
+help user
+help database Student
+help table sc
+show cmd
+change user
+new sss 322
